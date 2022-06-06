@@ -1,0 +1,2 @@
+singleton FStyle library/FStyle.qml
+singleton FPlugin library/FPlugin.qml
